@@ -9,4 +9,5 @@ This repository is a comprehensive collection of my progress, including code sni
 ## Days In Order
 
 Day 1: Band Name Generator<br>
-Day 2: Tip Calculator
+Day 2: Tip Calculator<br>
+Day 3: Treasure Island<br>
