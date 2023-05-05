@@ -1,14 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class HangmanGame
 {
     static void Main(string[] args)
     {
         bool playAgain = true;
+        List<string> hangmanWords = new List<string> { "hello", "world", "hangman", "computer", "science" };
 
         while (playAgain)
         {
-            string secretWord = "hello"; // change this to the word you want to use
+            Random random = new Random();
+            string secretWord = hangmanWords[random.Next(hangmanWords.Count)];
             int maxGuesses = 6; // change this to adjust the number of guesses allowed
             int guessesLeft = maxGuesses;
             char[] guessedLetters = new char[secretWord.Length];
