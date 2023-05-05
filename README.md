@@ -5,3 +5,8 @@ This repository is dedicated to showcasing my progress and learning journey in C
 ## What's Inside
 
 This repository is a comprehensive collection of my progress, including code snippets, projects, and resources related to C# programming. Each day's directory contains the C# code I wrote, along with detailed notes and resources that I found valuable. Additionally, I have included a README file in each directory summarizing what I learned on that particular day.
+
+## Days In Order
+
+Day 1: Band Name Generator<br>
+Day 2: Tip Calculator
