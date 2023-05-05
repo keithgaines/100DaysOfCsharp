@@ -1,0 +1,15 @@
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/bin/Debug/net6.0/rockPaperScissors
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/bin/Debug/net6.0/rockPaperScissors.deps.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/bin/Debug/net6.0/rockPaperScissors.runtimeconfig.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/bin/Debug/net6.0/rockPaperScissors.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/bin/Debug/net6.0/rockPaperScissors.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.csproj.AssemblyReference.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.AssemblyInfoInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.AssemblyInfo.cs
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/refint/rockPaperScissors.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/rockPaperScissors.genruntimeconfig.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/rockPaperScissors/obj/Debug/net6.0/ref/rockPaperScissors.dll
