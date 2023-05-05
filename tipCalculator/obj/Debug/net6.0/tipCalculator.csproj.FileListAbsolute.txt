@@ -1,0 +1,15 @@
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/bin/Debug/net6.0/tipCalculator
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/bin/Debug/net6.0/tipCalculator.deps.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/bin/Debug/net6.0/tipCalculator.runtimeconfig.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/bin/Debug/net6.0/tipCalculator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/bin/Debug/net6.0/tipCalculator.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.csproj.AssemblyReference.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.AssemblyInfoInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.AssemblyInfo.cs
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.csproj.CoreCompileInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/refint/tipCalculator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/tipCalculator.genruntimeconfig.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/tipCalculator/obj/Debug/net6.0/ref/tipCalculator.dll
