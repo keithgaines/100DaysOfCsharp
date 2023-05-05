@@ -20,6 +20,6 @@ public class Program
         float result = (total_bill / split_ways) * ((tip_percentage / 100) + 1);
 
         // prints result rounded to 2 decimal places
-        Console.WriteLine("Each person owes: " + Math.Round(result, 2));
+        Console.WriteLine("Each person owes: $" + Math.Round(result, 2));
     }
 }
