@@ -1,0 +1,15 @@
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bin/Debug/net6.0/bandNameGenerator
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bin/Debug/net6.0/bandNameGenerator.deps.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bin/Debug/net6.0/bandNameGenerator.runtimeconfig.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bin/Debug/net6.0/bandNameGenerator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bin/Debug/net6.0/bandNameGenerator.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.csproj.AssemblyReference.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.AssemblyInfoInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.AssemblyInfo.cs
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.csproj.CoreCompileInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/refint/bandNameGenerator.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/bandNameGenerator.genruntimeconfig.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/Debug/net6.0/ref/bandNameGenerator.dll

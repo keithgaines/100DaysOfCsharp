@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bng/bng/bng.csproj": {}
+    "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bandNameGenerator.csproj": {}
   },
   "projects": {
-    "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bng/bng/bng.csproj": {
+    "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bandNameGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bng/bng/bng.csproj",
-        "projectName": "bng",
-        "projectPath": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bng/bng/bng.csproj",
+        "projectUniqueName": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bandNameGenerator.csproj",
+        "projectName": "bandNameGenerator",
+        "projectPath": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bandNameGenerator.csproj",
         "packagesPath": "/Users/keithgaines/.nuget/packages/",
-        "outputPath": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/bng/bng/obj/",
+        "outputPath": "/Users/keithgaines/Desktop/repos/100DaysOfCsharp/bandNameGenerator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/keithgaines/.nuget/NuGet/NuGet.Config"
