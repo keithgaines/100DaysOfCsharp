@@ -1,5 +1,3 @@
-Sure, here's a condensed version of the README that highlights the key points of building and running FizzBuzz in C# from a potential employee perspective:
-
 # FizzBuzz
 
 FizzBuzz is a classic programming exercise used to teach programming fundamentals. It prints the numbers 1 to 100, but replaces multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both 3 and 5 with "FizzBuzz".
