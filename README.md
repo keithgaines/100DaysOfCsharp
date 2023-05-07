@@ -1,4 +1,4 @@
-# Welcome to '100 Days OfC Sharp'!
+# Welcome to '100 Days Of CSharp'!
 
 This repository is dedicated to showcasing my progress and learning journey in C# programming language over a period of 100 days. As someone who has successfully completed the 100-day Python challenge, I'm excited to further expand my skills by delving into C# for my backend needs.
 
