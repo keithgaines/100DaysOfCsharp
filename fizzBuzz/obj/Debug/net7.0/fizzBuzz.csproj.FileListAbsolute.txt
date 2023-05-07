@@ -1,0 +1,15 @@
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/bin/Debug/net7.0/fizzBuzz
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/bin/Debug/net7.0/fizzBuzz.deps.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/bin/Debug/net7.0/fizzBuzz.runtimeconfig.json
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/bin/Debug/net7.0/fizzBuzz.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/bin/Debug/net7.0/fizzBuzz.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.AssemblyReference.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfoInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.AssemblyInfo.cs
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/refint/fizzBuzz.dll
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.pdb
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/fizzBuzz.genruntimeconfig.cache
+/Users/keithgaines/Desktop/repos/100DaysOfCsharp/fizzBuzz/obj/Debug/net7.0/ref/fizzBuzz.dll
