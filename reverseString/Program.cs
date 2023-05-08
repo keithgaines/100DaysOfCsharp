@@ -19,6 +19,7 @@ namespace MyConsoleApp
             }
 
             string output = string.Join("", reversedChars);
+            Console.WriteLine(" ");
             Console.WriteLine("The reversed text is: ");
             Console.WriteLine(output);
         }
